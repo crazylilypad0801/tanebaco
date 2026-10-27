@@ -1,0 +1,10 @@
+/workspaces/tanebaco/src/main/java/com/example/inventory/controller/InventoryController.java
+/workspaces/tanebaco/src/main/java/com/example/inventory/repository/ProductRepository.java
+/workspaces/tanebaco/src/main/java/com/example/inventory/controller/RfidScanController.java
+/workspaces/tanebaco/src/main/java/com/example/inventory/service/InventoryService.java
+/workspaces/tanebaco/src/main/java/com/example/inventory/Application.java
+/workspaces/tanebaco/src/main/java/com/example/inventory/observer/InventoryObserver.java
+/workspaces/tanebaco/src/main/java/com/example/inventory/observer/impl/AuditLogObserver.java
+/workspaces/tanebaco/src/main/java/com/example/inventory/observer/InventorySubject.java
+/workspaces/tanebaco/src/main/java/com/example/inventory/observer/impl/LowStockNotificationObserver.java
+/workspaces/tanebaco/src/main/java/com/example/inventory/model/Product.java

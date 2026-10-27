@@ -1,0 +1,11 @@
+com/example/inventory/repository/ProductRepository.class
+com/example/inventory/controller/RfidScanController$RfidScanRequest.class
+com/example/inventory/observer/InventorySubject.class
+com/example/inventory/observer/InventoryObserver.class
+com/example/inventory/observer/impl/LowStockNotificationObserver.class
+com/example/inventory/controller/RfidScanController.class
+com/example/inventory/service/InventoryService.class
+com/example/inventory/Application.class
+com/example/inventory/observer/impl/AuditLogObserver.class
+com/example/inventory/model/Product.class
+com/example/inventory/controller/InventoryController.class

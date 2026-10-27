@@ -16,7 +16,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
 @Service
 public class InventoryService implements InventorySubject {
     private final ProductRepository productRepository;
-    private final List<InventoryObserver> observers = new CopyOnWriteArrayList<>();
+    private final CopyOnWriteArrayList<InventoryObserver> observers = new CopyOnWriteArrayList<>();
 
     public InventoryService(ProductRepository productRepository, List<InventoryObserver> registeredObservers) {
         this.productRepository = productRepository;
